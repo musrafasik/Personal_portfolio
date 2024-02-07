@@ -1,3 +1,3 @@
 # Personal_portfolio
 
-https://musrafasik/Personal_portfolio
+https://musrafasik.github.io/Personal_portfolio/
